@@ -1,0 +1,16 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "JSON_From_DB"
+        }
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "JSONOutput"
+        }
+    },
+    "id": "98754586-04d7-44d3-bd71-1b7676cd2e39",
+    "version": "5.2.0.0"
+}
